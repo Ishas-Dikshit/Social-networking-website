@@ -1,0 +1,3 @@
+# Social Networking Website
+
+It is a social networking website where the users can easily login/ signup. The users have the freedom to post their own tweets, search of tweets and different user profiles present on the website. Well they can follow or un-follow any person they want and based on the following nature the tweets will be displayed on their personal timeline. In order to post tweets they have to sign up.
